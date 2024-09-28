@@ -1,9 +1,9 @@
 # Basic Information 
 title: Shujin Wu
+affiliation2: UIUC @Blender Lab
 affiliation: USC @Viterbi
-subaffiliation: UIUC @Blender Lab
 affiliation_link: https://viterbischool.usc.edu/
-subaffiliation_link: https://blender.cs.illinois.edu/hengji.html
+affiliation2_link: https://blender.cs.illinois.edu/hengji.html
 email: shujinwu@usc.edu
 
 # Search Engine Optimization (SEO)
@@ -23,7 +23,7 @@ github_link: https://github.com/ShujinWu-0814
 linkedin: https://www.linkedin.com/in/shujin-wu
 
 # Images 
-avatar: ./assets/img/avatar3.jpg
+avatar: ./assets/img/avatar3.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
