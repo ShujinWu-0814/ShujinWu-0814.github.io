@@ -1,7 +1,7 @@
 main:
   
   - title: SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales
-    authors: Tianyang Xu*, <strong>Shujin Wu*<strong>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, Yangyi Chen, Jing Gao
+    authors: Tianyang Xu*, <strong>Shujin Wu*</strong>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, Yangyi Chen, Jing Gao
     conference_short: EMNLP 2024
     conference: EMNLP 2024 Main
     pdf: ./assets/files/multi.pdf
