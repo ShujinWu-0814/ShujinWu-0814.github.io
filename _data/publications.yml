@@ -8,7 +8,6 @@ main:
     page: https://arxiv.org/abs/2405.20974
     bibtex: ./assets/files/sayself.txt
     image: ./assets/files/sayself.png
-    citation: kFPPHWUAAAAJ:u5HHmVD_uO8C
     notes: Published
 
   - title: 'MACAROON: Training Vision-Language Models To Be Your Engaged Partners'
@@ -19,7 +18,6 @@ main:
     page: https://arxiv.org/abs/2406.14137
     bibtex: ./assets/files/macaroon.txt
     image: ./assets/files/macaroon.png
-    citation: kFPPHWUAAAAJ:u-x6o8ySG0sC
     notes: Published
 
   
