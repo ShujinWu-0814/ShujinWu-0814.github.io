@@ -20,4 +20,5 @@ Hello!👋 I am a recent graduate from [University of Southern California](https
 - **B.Sc. in International Business and Trade**, 2018 - 2022, [Zhongnan Univeristy of Economics and Law](https://wap.zuel.edu.cn/), Wuhan, Hubei, China
 
 {% include_relative _includes/news.md %}
+
 {% include_relative _includes/publications.md %}
