@@ -19,3 +19,5 @@ Hello!👋 I am a recent graduate from [University of Southern California](https
 - **M.Sc. in Communication Data Science**, 2022 - 2024, [University of Southern California](https://www.usc.edu/), Los Angeles, CA, United States
 - **B.Sc. in International Business and Trade**, 2018 - 2022, [Zhongnan Univeristy of Economics and Law](https://wap.zuel.edu.cn/), Wuhan, Hubei, China
 
+{% include_relative _includes/news.md %}
+{% include_relative _includes/publications.md %}
