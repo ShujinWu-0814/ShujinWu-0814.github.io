@@ -5,6 +5,9 @@ main:
     conference_short: EMNLP 2024
     conference: EMNLP 2024 Main Conference
     page: https://arxiv.org/abs/2405.20974
+    pdf:
+    bibtex:
+    citation:
     image: ./assets/files/sayself.png
     notes: Published
 
@@ -13,6 +16,9 @@ main:
     conference_short: EMNLP 2024
     conference: EMNLP 2024 Findings
     page: https://arxiv.org/abs/2406.14137
+    pdf:
+    bibtex:
+    citation:
     image: ./assets/files/macaroon.png
     notes: Published
   
