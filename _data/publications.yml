@@ -6,7 +6,7 @@ main:
     conference: EMNLP 2024 Main Conference
     pdf: https://arxiv.org/pdf/2405.20974
     page: https://arxiv.org/abs/2405.20974
-    bibtex: ./assets/files/multi.txt
+    bibtex: ./assets/files/sayself.txt
     image: ./assets/files/sayself.png
     citation: kFPPHWUAAAAJ:u5HHmVD_uO8C
     notes: Published
@@ -17,7 +17,7 @@ main:
     conference: EMNLP 2024 Findings
     pdf: https://arxiv.org/pdf/2406.14137
     page: https://arxiv.org/abs/2406.14137
-    bibtex: ./assets/files/magnetoionic.txt
+    bibtex: ./assets/files/macaroon.txt
     image: ./assets/files/macaroon.png
     citation: kFPPHWUAAAAJ:u-x6o8ySG0sC
     notes: Published
