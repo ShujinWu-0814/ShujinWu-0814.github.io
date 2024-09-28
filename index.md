@@ -21,3 +21,4 @@ Hello!👋 I am a recent graduate from [University of Southern California](https
 
 {% include_relative _includes/news.md %}
 
+{% include_relative _includes/publications.md %}
