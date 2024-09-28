@@ -1,6 +1,6 @@
 main:
 
-  - title: SaySelf':' Teaching LLMs to Express Confidence with Self-Reflective Rationales
+  - title: 'SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales'
     authors: Tianyang Xu*, <strong>Shujin Wu*</strong>, Shizhe Diao, Xiaoze Liu, Xingyao Wang, Yangyi Chen, Jing Gao
     conference_short: EMNLP 2024
     conference: EMNLP 2024 Main Conference
@@ -8,10 +8,10 @@ main:
     page: https://arxiv.org/abs/2405.20974
     bibtex: ./assets/files/multi.txt
     image: ./assets/files/sayself.png
-    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
+    citation: kFPPHWUAAAAJ:u5HHmVD_uO8C
     notes: Published
 
-  - title: MACAROON':' Training Vision-Language Models To Be Your Engaged Partners
+  - title: 'MACAROON: Training Vision-Language Models To Be Your Engaged Partners'
     authors: <strong>Shujin Wu</strong>, Yi R Fung, Sha Li, Yixin Wan, Kai-Wei Chang, Heng Ji
     conference_short: EMNLP 2024
     conference: EMNLP 2024 Findings
@@ -19,7 +19,7 @@ main:
     page: https://arxiv.org/abs/2406.14137
     bibtex: ./assets/files/magnetoionic.txt
     image: ./assets/files/macaroon.png
-    citation: sf-0AGoAAAAJ:d1gkVwhDpl0C
+    citation: kFPPHWUAAAAJ:u-x6o8ySG0sC
     notes: Published
 
   
