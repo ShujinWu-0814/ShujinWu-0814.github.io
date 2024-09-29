@@ -5,6 +5,5 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>ARR June Cycle</li>
-  <li>ARR August Cycle (EMNLP 2024)</li>
+  <li>ARR June Cycle, ARR August Cycle (EMNLP 2024)</li>
 </ul>
