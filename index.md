@@ -8,7 +8,7 @@ layout: homepage
 
 Hello!👋 I am a recent graduate from [University of Southern California](https://www.usc.edu/) and is currently working as a research assitant intern at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the mentorship of Prof. [Yi R. Fung](https://yrf1.github.io/) and advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research interest mainly lies in:
 - **Alignment:** Training (vision-)language models to follow human intents and values and creating **scalable alignment approaches** that can continually align the intents of AI models with human objectives even when they surpass human capacity. 
-- **Human-Model Interaction:** Developing **human-centered (vision-)language models** that facilitate their seamless interaction and collaboration with individuals from diverse backgrounds.
+- **Human-Model Interaction:** Developing **trustworthy human-centered (vision-)language models** that can facilitate their seamless interaction and collaboration with individuals from diverse backgrounds and serve as genuinely helpful partners to people.
 
 I’m always excited about all types of discussions and collaborations! Feel free to drop me an email if you are interested in or have any comments/questions about my work.
 
