@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Hello!👋 I am a recent graduate from [University of Southern California](https://www.usc.edu/) and is currently working as a research assitant intern at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the mentorship of Dr. [Yi R. Fung](https://yrf1.github.io/) and advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research focus on building human-centered trustworthy large language models and also vision language models that can effectively follow human instructions to be truly helpful.
+Hello!👋 I am a recent graduate from [University of Southern California](https://www.usc.edu/) and is currently working as a research assitant intern at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the mentorship of Prof. [Yi R. Fung](https://yrf1.github.io/) and advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research focus on building human-centered trustworthy large language models and also vision language models that can effectively follow human instructions to be truly helpful.
 
 ## Research Interest
 
@@ -21,3 +21,4 @@ Hello!👋 I am a recent graduate from [University of Southern California](https
 
 {% include_relative _includes/news.md %}
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
