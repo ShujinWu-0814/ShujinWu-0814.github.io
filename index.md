@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Hello!👋 I am a recent graduate from [University of Southern California](https://www.usc.edu/) and is currently working as a research assitant intern at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the mentorship of Prof. [Yi R. Fung](https://yrf1.github.io/) and advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). My research interest mainly lies in:
+Hello!👋 I am a recent graduate from [University of Southern California](https://www.usc.edu/) and is currently working as a research assitant intern at [University of Illinois Urbana-Champaign](https://illinois.edu/), under the advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html) and the mentorship of Prof. [Yi R. Fung](https://yrf1.github.io/). My research interest mainly lies in:
 - **AI Alignment:** Training (vision-)language models to follow human intents and values and creating **scalable alignment approaches** that can continually align the intents of AI models with human objectives even when they surpass human capacity. 
 - **Human-Model Interaction:** Developing **trustworthy human-centered (vision-)language models** that can facilitate their seamless interaction and collaboration with individuals from diverse backgrounds and serve as genuinely helpful partners to people.
 
