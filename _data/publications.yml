@@ -2,14 +2,14 @@ main:
 
   - title: 'Aligning LLMs with Individual Preferences via Interaction'
     authors: <strong>Shujin Wu</strong>, May Fung, Cheng Qian, Jeonghwan Kim, Dilek Hakkani-Tur, Heng Ji
-    conference_short: Arxiv
-    conference: Arxiv Preprint
+    conference_short: COLING 2025
+    conference: COLING 2025
     pdf: https://arxiv.org/pdf/2410.03642
     arxiv: http://arxiv.org/abs/2410.03642
     code: https://github.com/ShujinWu-0814/ALOE
     bibtex: ./assets/files/ALOE.txt
     image: ./assets/files/ALOE.png
-    notes: Preprint
+    notes: Published
 
   - title: 'MACAROON: Training Vision-Language Models To Be Your Engaged Partners'
     authors: <strong>Shujin Wu</strong>, Yi R Fung, Sha Li, Yixin Wan, Kai-Wei Chang, Heng Ji
