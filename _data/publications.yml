@@ -1,5 +1,16 @@
 main:
 
+  - title: 'Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization'
+    authors: <strong>Shujin Wu</strong>, Cheng Qian, Yi R.(May) Fung, Paul Pu Liang, Heng Ji
+    conference_short: Preprint
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2504.07316v2
+    arxiv: https://arxiv.org/abs/2504.07316v2
+    code: https://github.com/ShujinWu-0814/Alice
+    bibtex: ./assets/files/Alice.txt
+    image: ./assets/files/Alice.png
+    notes: Preprint
+    
   - title: 'Aligning LLMs with Individual Preferences via Interaction'
     authors: <strong>Shujin Wu</strong>, May Fung, Cheng Qian, Jeonghwan Kim, Dilek Hakkani-Tur, Heng Ji
     conference_short: COLING 2025
