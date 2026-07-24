@@ -1,16 +1,16 @@
 # Basic Information 
 title: Shujin Wu
-affiliation: University of Southern California
-subaffiliation: Viterbi School of Engineering
-affiliation_link: https://www.usc.edu/
-subaffiliation_link: https://viterbischool.usc.edu/
-email: shujinwu@usc.edu
+affiliation: University of Illinois Urbana Champaign
+subaffiliation: Siebel School of Computing and Data Science
+affiliation_link: https://illinois.edu/
+subaffiliation_link: https://siebelschool.illinois.edu/
+email: shujinwu@illinois.edu
 email2: shujin.wu@outlook.com
 
 # Search Engine Optimization (SEO)
 keywords: shujinwu, Shujin Wu, shujin wu, Wu Shujin
 canonical: https://minimal-light-theme.yliu.me/
-description: Shujin Wu is a recent graduate from USC and now a research assistant intern at UIUC. Her research lies at building human-centered trustworthy large language models and also vision language models that can effectively follow human instructions to be truly helpful.
+description: Shujin Wu is first year CS PhD student at UIUC. Her research lies at building human-centered trustworthy large language models and also vision language models that can effectively follow human instructions to be truly helpful.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -19,7 +19,7 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=kFPPHWUAAAAJ&hl=en
+google_scholar: https://scholar.google.com/citations?user=U6EtVmYAAAAJ&hl=en
 github_link: https://github.com/ShujinWu-0814
 linkedin: https://www.linkedin.com/in/shujin-wu
 twitter: https://x.com/shujin_wu
