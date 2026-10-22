@@ -8,7 +8,7 @@ main:
     arxiv: https://arxiv.org/abs/2610.25950
     code: https://github.com/HKUST-KnowComp/AdaExploreBench
     bibtex: https://arxiv.org/bibtex/2610.25950
-    image: https://hkust-knowcomp.github.io/AdaExploreBench/assets/figures/overview.png
+    image: ./assets/files/AdaExploreBench.png
     notes: Preprint
 
   - title: 'Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning'
@@ -29,7 +29,7 @@ main:
     arxiv: https://arxiv.org/abs/2608.28833
     code: https://github.com/yumeng-10/personalization_risk
     bibtex: https://arxiv.org/bibtex/2608.28833
-    image: https://arxiv.org/html/2608.28833v1/main_figure.png
+    image: ./assets/files/HiddenCosts.png
     notes: Published
 
   - title: 'MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration'
@@ -40,7 +40,7 @@ main:
     arxiv: https://arxiv.org/abs/2505.23224
     code: https://github.com/Zhitao-He/MMBoundary
     bibtex: https://arxiv.org/bibtex/2505.23224
-    image: https://arxiv.org/html/2505.23224v3/framework5.png
+    image: ./assets/files/MMBoundary.png
     notes: Published
 
   - title: "Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization"
