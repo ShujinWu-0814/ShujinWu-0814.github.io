@@ -1,0 +1,6 @@
+@inproceedings{wu2026teaching,
+  title={Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning},
+  author={Wu, Shujin and Qian, Cheng and Chen, Xiusi and Ji, Heng},
+  booktitle={Conference on Language Modeling (COLM)},
+  year={2026}
+}
