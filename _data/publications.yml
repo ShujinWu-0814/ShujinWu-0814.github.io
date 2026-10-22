@@ -1,5 +1,16 @@
 main:
 
+  - title: 'AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments'
+    authors: Rui Wang, Zishen Lai, Jiayu Liu, Cheng Qian, Jeonghwan Kim, Heng Wang, Xuejun Zhang, Jiateng Liu, Bingxuan Li, <strong>Shujin Wu</strong>, Qing Zong, Tianshi Zheng, Chunyang Li, Qihan Lin, Chen Li, Dadi Guo, Xiusi Chen, Yangqiu Song
+    conference_short: Preprint
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2610.25950
+    arxiv: https://arxiv.org/abs/2610.25950
+    code: https://github.com/HKUST-KnowComp/AdaExploreBench
+    bibtex: https://arxiv.org/bibtex/2610.25950
+    image: https://hkust-knowcomp.github.io/AdaExploreBench/assets/figures/overview.png
+    notes: Preprint
+
   - title: 'Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning'
     authors: <strong>Shujin Wu</strong>, Cheng Qian, Xiusi Chen, Heng Ji
     conference_short: COLM 2026
@@ -8,6 +19,28 @@ main:
     arxiv: https://arxiv.org/abs/2607.21971
     bibtex: ./assets/files/SelfEvolve.txt
     image: ./assets/files/SelfEvolve.png
+    notes: Published
+
+  - title: 'Evaluating the Hidden Costs of Personalization in Large Language Models'
+    authors: Yumeng Wang, Yuchen Wu, Cheng Qian, Zhiyuan Fan, Hyeonjeong Ha, <strong>Shujin Wu</strong>, Jiayu Liu, Heng Ji, Ge Wang
+    conference_short: EMNLP 2026
+    conference: EMNLP 2026
+    pdf: https://arxiv.org/pdf/2608.28833
+    arxiv: https://arxiv.org/abs/2608.28833
+    code: https://github.com/yumeng-10/personalization_risk
+    bibtex: https://arxiv.org/bibtex/2608.28833
+    image: https://arxiv.org/html/2608.28833v1/main_figure.png
+    notes: Published
+
+  - title: 'MMBoundary: Advancing MLLM Knowledge Boundary Awareness through Reasoning Step Confidence Calibration'
+    authors: Zhitao He, Sandeep Polisetty, Zhiyuan Fan, Yuchen Huang, <strong>Shujin Wu</strong>, Yi R. Fung
+    conference_short: ACL 2025
+    conference: ACL 2025
+    pdf: https://arxiv.org/pdf/2505.23224
+    arxiv: https://arxiv.org/abs/2505.23224
+    code: https://github.com/Zhitao-He/MMBoundary
+    bibtex: https://arxiv.org/bibtex/2505.23224
+    image: https://arxiv.org/html/2505.23224v3/framework5.png
     notes: Published
 
   - title: "Alice: Proactive Learning with Teacher's Demonstrations for Weak-to-Strong Generalization"
