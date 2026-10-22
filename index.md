@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Hello!👋 I am a first year CS PhD student at [University of Illinois Urbana Champaign](https://illinois.edu/) under the advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). I am fortunate to be supported by [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)(2025-2027). 
+Hello!👋 I am a second year CS PhD candidate at [University of Illinois Urbana Champaign](https://illinois.edu/) under the advisement of Prof. [Heng Ji](https://blender.cs.illinois.edu/hengji.html). I am fortunate to be supported by [Amazon AI PhD Fellowship](https://www.amazon.science/news/amazon-launches-68-million-ai-phd-fellowship-program)(2025-2027). 
 
 My research focuses on self-evolving LLM agents that learn through reinforcement learning, self-reflection, and interaction, incorporating uncertainty awareness to drive continual improvement in model capabilities, performance, and alignment with human preference.
 
