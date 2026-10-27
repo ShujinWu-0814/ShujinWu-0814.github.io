@@ -1,5 +1,15 @@
 main:
 
+  - title: 'Free Lunch for LLMs Confidence: The RL Critic Already Knows'
+    authors: <strong>Shujin Wu</strong>, Heng Ji
+    conference_short: Preprint
+    conference: Arxiv Preprint
+    pdf: https://arxiv.org/pdf/2610.31820
+    arxiv: https://arxiv.org/abs/2610.31820
+    bibtex: https://arxiv.org/bibtex/2610.31820
+    image: ./assets/files/CriticConfidence.png
+    notes: Preprint
+
   - title: 'AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments'
     authors: Rui Wang, Zishen Lai, Jiayu Liu, Cheng Qian, Jeonghwan Kim, Heng Wang, Xuejun Zhang, Jiateng Liu, Bingxuan Li, <strong>Shujin Wu</strong>, Qing Zong, Tianshi Zheng, Chunyang Li, Qihan Lin, Chen Li, Dadi Guo, Xiusi Chen, Yangqiu Song
     conference_short: Preprint
